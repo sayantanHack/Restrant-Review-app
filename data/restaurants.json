@@ -1,0 +1,394 @@
+{
+  "restaurants": [{
+    "id": 1,
+    "name": "Golbarir Kosha Mangsho",
+    "neighborhood": "Shyambazar, Kolkata",
+    "photograph": "1.jpg",
+    "address": "Shyambazar, 211, Acharya Prafulla Chandra Rd, Fariapukur, Kolkata, West Bengal 700004",
+    "latlng": {
+      "lat": 22.6015557,
+      "lng": 88.3713839
+    },
+    "cuisine_type": "Bangali, Indian",
+    "operating_hours": {
+      "Monday": "11:30 am - 11:00 pm",
+      "Tuesday": "11:30 am - 11:00 pm",
+      "Wednesday": "11:30 am - 11:00 pm",
+      "Thursday": "11:30 am - 11:00 pm",
+      "Friday": "11:30 am - 11:00 pm",
+      "Saturday": "11:30 am - 11:00 pm",
+      "Sunday": "11:30 am - 11:00 pm"
+    },
+    "reviews": [{
+        "name": "Nellohit",
+        "date": "October 2, 2018",
+        "rating": 4,
+        "comments": "Delicious foods . Mutton is awesome with the quality. Price is perfect. I love this place. But sitting arrangements quite bad. Except this, rest of the things perfect. Please go there and have some fun, but take your time to go there, since sitting arrangements is short."
+      },
+      {
+        "name": "Pritam",
+        "date": "October 10, 2016",
+        "rating": 4,
+        "comments": ""কষা মাংস" the quality they offer is justifying enough against their "branding". May be the best (only if you can ignore health issues) mutton you can have here or around."
+      },
+      {
+        "name": "Radhika",
+        "date": "September 26, 2017",
+        "rating": 3.6,
+        "comments": "Although I personally feel that Golbari used to serve better tasting food in the past,  however I think that the quality of food here is still fairly good.  Seating crunches is not a fault of the restaurant,  as they don't have any space for expansion.  Plus, they very rightly want to maintain their tradition. Prices are not very high, unless you start comparing with roadside eateries. Service is also quite decent."
+      }
+    ]
+  }, {
+    "id": 2,
+    "name": "Aminia",
+    "neighborhood": "New market",
+    "photograph": "2.jpg",
+    "address": "6a, SN Banerjee Road, New Market Area, Dharmatala, Taltala, Kolkata, West Bengal 700087",
+    "latlng": {
+      "lat": 22.5621662,
+      "lng": 88.3530511
+    },
+    "cuisine_type": "Biriyani Mughlai",
+    "operating_hours": {
+      "Monday": "10:30 am – 10:30 pm",
+      "Tuesday": "10:30 am – 10:30 pm",
+      "Wednesday": "10:30 am – 10:30 pm",
+      "Thursday": "10:30 am – 10:30 pm",
+      "Friday": "10:30 am – 10:30 pm",
+      "Saturday": "10:30 am – 10:30 pm",
+      "Sunday": "10:30 am – 10:30 pm"
+    },
+    "reviews": [{
+        "name": "Avinabh",
+        "date": "August 15, 2017",
+        "rating": 4.1,
+        "comments": "Great family restaurant with lots of non veg variety. It's really very old restaurant. The waiters are very well behaved and they help you to choose the correct dish, if you are confused. I always find this place good for family n friends gathering."
+      },
+      {
+        "name": "Anirban Das",
+        "date": "September 18, 2018",
+        "rating": 3.7,
+        "comments": "Pretty  good. Expecting better  quality according to price. And behavior  satisfactory."
+      },
+      {
+        "name": "Samrat",
+        "date": "October 24, 2017",
+        "rating": 3.8,
+        "comments": "Good muglai restaurant. Quality of food is excellent. But only one thing I want to say, the quantity of BIRIYANI should be little bit more."
+      }
+    ]
+  }, {
+    "id": 3,
+    "name": "Barbeque Nation",
+    "neighborhood": "Park Street",
+    "photograph": "3.jpg",
+    "address": "24 Park Center Building, Park St, Park Street area, Kolkata, West Bengal 700016",
+    "latlng": {
+      "lat": 22.5509484,
+      "lng": 88.3518179
+    },
+    "cuisine_type": "Continental",
+    "operating_hours": {
+      "Monday": "12 – 11 pm",
+      "Tuesday": "12 – 11 pm",
+      "Wednesday": "12 – 11 pm",
+      "Thursday": "12 – 11 pm",
+      "Friday": "12 – 11 pm",
+      "Saturday": "12 – 11 pm",
+      "Sunday": "6 am – 11 pm"
+    },
+    "reviews": [{
+        "name": "Rahul",
+        "date": "August 10, 2016",
+        "rating": 4.2,
+        "comments": "One of the best restaurants in park Street. The ambiance is excellent, the staff extremely cordial and helpful. The food is amazing the taste is great so is the pocket friendly portions. The place is also centrally located which is easily accessible from the main road. Has a restroom. Overall recommended for Chinese dishes."
+      },
+      {
+        "name": "Pritha",
+        "date": "October 5, 2017",
+        "rating": 4.9,
+        "comments": "If you are up for good Chinese food, this place is perfect! They maintain good quality and quantity of food. Their menu has many varieties in chicken, fish, pork. The ambience is also very nice located centrally in the park street area. One of my personal favourite Chinese restaurant."
+      },
+      {
+        "name": "Himanshi",
+        "date": "October 16, 2018",
+        "rating": 2,
+        "comments": "Food is good.. people who serve are very professional and courteous. Overall a good place"
+      }
+    ]
+  }, {
+    "id": 4,
+    "name": "Bhojohori Manna",
+    "neighborhood": "Chowringhee North",
+    "photograph": "4.jpg",
+    "address": "11A, Road, K.C. Das, Beside, Sido Kanhu Dahar, Chowringhee North, Bow Barracks, Kolkata, West Bengal 700069",
+    "latlng": {
+      "lat": 22.5657029,
+      "lng": 88.3514537
+    },
+    "cuisine_type": "Pure Bengali food",
+    "operating_hours": {
+      "Monday": "12 – 10 pm",
+      "Tuesday": "12 – 10 pm",
+      "Wednesday": "12 – 10 pm",
+      "Thursday": "12 – 10 pm",
+      "Friday": "12 – 10 pm",
+      "Saturday": "12 – 10 pm",
+      "Sunday": "12 – 10 pm"
+    },
+    "reviews": [{
+        "name": "Steve",
+        "date": "October 26, 2016",
+        "rating": 5,
+        "comments": "Did not expect this from Bhojohori manna. The place is quite small to start with, next there is a single toilet which once locked from inside cannot be accessed.Coming to food, they had half the menu unavailable during dinner at 8. Even the rice dish was not of proper quality. Authentic Bengali dishes were all unavailable. I am not sure if this is specific to this branch only but my review is based on the same.2 stars only for the staff who tried their level best to help us out."
+      },
+      {
+        "name": "Ayan",
+        "date": "October 8, 2016",
+        "rating": 5,
+        "comments": "If I lived in NY and got diabetes from eating here every single time I ate, I would do it over and over and over again just for that first bite. These guys know how to make a sandwich. The heart attack comes free of charge! Came by while I was visiting NYC. First pit-stop when I come back :)!"
+      },
+      {
+        "name": "David",
+        "date": "October 26, 2016",
+        "rating": 2.5,
+        "comments": " Very poor service. Food quality is not up to the mark.Prices are too much for the quantity and quality they provide.Very bad ambience in here. Ceiling is too low. (less than 6')"
+      }
+    ]
+  }, {
+    "id": 5,
+    "name": "ITC Sonar",
+    "neighborhood": "Tangra",
+    "photograph": "5.jpg",
+    "address": "JBS Haldane Ave, Opp Science City, Tangra, Kolkata, West Bengal 700046",
+    "latlng": {
+      "lat": 22.5443249,
+      "lng": 88.395895
+    },
+    "cuisine_type": "Resturant",
+    "operating_hours": {
+      "Monday": "Open 24 hours",
+      "Tuesday": "Open 24 hours",
+      "Wednesday": "Open 24 hours",
+      "Thursday": "Open 24 hours",
+      "Friday": "Open 24 hours",
+      "Saturday": "Open 24 hours",
+      "Sunday": "Open 24 hours"
+    },
+    "reviews": [{
+        "name": "Madhurima Das",
+        "date": "September 16, 2018",
+        "rating": 4,
+        "comments": "Quality not upto the mark..limited starters and main course food is just ok to taste. Identified flies inside the hall..not satisfied."
+      },
+      {
+        "name": "Rajib",
+        "date": "October 26, 2016",
+        "rating": 4.4,
+        "comments": "a wonderful place with delicious food and extremely helpful staff."
+      },
+      {
+        "name": "Adan",
+        "date": "October 26, 2016",
+        "rating": 4.8,
+        "comments": "Good conference room and nice ambience. Food is always amazing here. Good place for corporate stuffs. Generally less busy place."
+      }
+    ]
+  }, {
+    "id": 6,
+    "name": "The Oberoi Grand",
+    "neighborhood": "New Market",
+    "photograph": "6.jpg",
+    "address": "15, Jawaharlal Nehru Road, New Market Area, Dharmatala, Taltala, Kolkata, West Bengal 700013",
+    "latlng": {
+      "lat": 22.5612219,
+      "lng": 88.3490118
+    },
+    "cuisine_type": "luxary hotel",
+    "operating_hours": {
+      "Monday": "12:00 pm - 10:00 pm",
+      "Tuesday": "12:00 pm - 10:00 pm",
+      "Wednesday": "12:00 pm - 10:00 pm",
+      "Thursday": "12:00 pm - 10:00 pm",
+      "Friday": "12:00 pm - 11:00 pm",
+      "Saturday": "12:00 pm - 11:00 pm",
+      "Sunday": "12:00 pm - 9:00 pm"
+    },
+    "reviews": [{
+        "name": "Syed",
+        "date": "October 6, 2016",
+        "rating": 4,
+        "comments": "An excellent hotel in Kolkata with very well equipped rooms and facilities. Great location. Enjoyed the 24 hour gym. What stands out most is the exceptional service.  Extermely friendly and helpful staff who are the best I’ve seen anywhere."
+      },
+      {
+        "name": "Manik",
+        "date": "October 26, 2016",
+        "rating": 4,
+        "comments": "Overall, a great try of New York BBQ. The restaurant décor is rustic with a good amount of seats to sit and enjoy the meal. I definitely would love to come back and try that monster of a beef rib!"
+      },
+      {
+        "name": "Sudeshna",
+        "date": "October 26, 2017",
+        "rating": 4.5,
+        "comments": "The ambience, as always, transports one to the golden yesteryears... It is always lovely to come back to this beautiful hotel at the heart of the city. You can shut out the hustle and bustle of the city the moment you step inside this majestic building."
+      }
+    ]
+  }, {
+    "id": 7,
+    "name": "Taj Bengal Kolkata",
+    "neighborhood": "Alipore",
+    "photograph": "7.jpg",
+    "address": "34B, Belvedere Road, Alipore, Kolkata, West Bengal 700027",
+    "latlng": {
+      "lat": 22.5363504,
+      "lng": 88.3324419
+    },
+    "cuisine_type": "Luxury Resturent",
+    "operating_hours": {
+      "Monday": "11:30 am - 10:00 pm",
+      "Tuesday": "Closed",
+      "Wednesday": "11:30 am - 10:00 pm",
+      "Thursday": "11:30 am - 10:00 pm",
+      "Friday": "11:30 am - 10:00 pm",
+      "Saturday": "11:30 am - 10:00 pm",
+      "Sunday": "11:30 am - 10:00 pm"
+    },
+    "reviews": [{
+        "name": "Hrittika",
+        "date": "October 26, 2018",
+        "rating": 4.5,
+        "comments": "Excellent hotel near alipur zoo an unique place to stay in. Slightly off the new city but you will feel the heritage and smell of Kolkata. You see the zoo from the rooms. Excellent arrangements and food you can have it here."
+      },
+      {
+        "name": "Anwesha",
+        "date": "October 5, 2016",
+        "rating": 5,
+        "comments": "It's a heritage of Kolkata and has reasons for it. The interiors are such grand and well maintained. Courtesy of people are great. In every aspect it is a 5 star property!!"
+      },
+      {
+        "name": "Somnath",
+        "date": "August 6, 2017",
+        "rating": 4.8,
+        "comments": "Great location, really pleasant and clean rooms, but the thing that makes this such a good place to stay are the staff. All of the people are incredibly helpful and generous with their time and advice. We travelled with two six year olds and lots of luggage and despite the stairs up to the elevator this was one of the nicest places we stayed in the four weeks."
+      }
+    ]
+  }, {
+    "id": 8,
+    "name": "Indian Coffee House",
+    "neighborhood": "College Street",
+    "photograph": "8.jpg",
+    "address": "Sharda Book Stall, 15, Near, Bankim Chatterjee St, College Square West, College Square, Kolkata, West Bengal 700073",
+    "latlng": {
+      "lat": 22.5761459,
+      "lng": 88.3617985
+    },
+    "cuisine_type": "Indian",
+    "operating_hours": {
+      "Monday": "9:00 am - 9:30 pm",
+      "Tuesday": "9:00 am - 9:30 pm",
+      "Wednesday": "9:00 am - 9:30 pm",
+      "Thursday": "9:00 am - 9:30 pm",
+      "Friday": "9:00 am - 9:30 pm",
+      "Saturday": "9:00 am - 9:30 pm",
+      "Sunday": "9:00 am - 9:30 pm"
+    },
+    "reviews": [{
+        "name": "Rahul",
+        "date": "July 2, 2017",
+        "rating": 4.2,
+        "comments": "It takes back to you a time when life was not so fast and hard. A historical place and what a vibe. Coffee and cutlet combination will definitely win your heart. The big painting of Rabindranath Tagore is incredible."
+      },
+      {
+        "name": "James",
+        "date": "June 26, 2018",
+        "rating": 4,
+        "comments": "Crowded! You will wait a long time to get a table! But smoking is now limited which is nice. The food is nothing special but the nostalgic atmosphere is great. Spend a few hours here with a friend drinking coffee and chatting."
+      },
+      {
+        "name": "Ganesh",
+        "date": "October 9, 2017",
+        "rating": 4,
+        "comments": "One of the finest places in Kolkata. Culturally very important. You don't really go here thinking about food quality or so. Experience one of most important hangout places in the city."
+      }
+    ]
+  }, {
+    "id": 9,
+    "name": "Peter Cat,
+    "neighborhood": "Park Street",
+    "photograph": "9.jpg",
+    "address": "18 A, Stephen Court, Park Street, Opposite KFC Restaurant, Park Street area, Kolkata, West Bengal 700016",
+    "latlng": {
+      "lat": 22.5524158,
+      "lng": 88.350358
+    },
+    "cuisine_type": "Contenental",
+    "operating_hours": {
+      "Monday": "5:00 pm - 10:00 pm",
+      "Tuesday": "5:00 pm - 10:00 pm",
+      "Wednesday": "5:00 pm - 10:00 pm",
+      "Thursday": "5:00 pm - 10:00 pm",
+      "Friday": "5:00 pm - 11:00 pm",
+      "Saturday": "5:00 pm - 11:00 pm",
+      "Sunday": "5:00 pm - 10:00 pm"
+    },
+    "reviews": [{
+        "name": "Jack",
+        "date": "January 5, 2018",
+        "rating": 4.9,
+        "comments": "Situated in the heart of the park street area the place is ideal for hangout with friends, family and colleagues. They offer good service paired with great ambiance.  food was delicious too. over all good experience.4 Stars."
+      },
+      {
+        "name": "Ranveer",
+        "date": "October 26, 2016",
+        "rating": 4,
+        "comments": "Overall, I would definitely recommend this place if you enjoy thick curly noodles with a thick, intense broth.  If you don't there are still other options but I can't vouch for those."
+      },
+      {
+        "name": "Shally",
+        "date": "October 26, 2017",
+        "rating": 4,
+        "comments": "One of the city's legendary restaurant. Queue and waiting time can be a major turn off on busy days. Be prepared to queue for more than one hour on popular holidays and festivals."
+      }
+    ]
+  }, {
+    "id": 10,
+    "name": "Oudh 1590",
+    "neighborhood": "salt Lake",
+    "photograph": "10.jpg",
+    "address": "23/B, Deshapriya Park west,near carmel primary school, Manoharpukur, Kalighat, Kolkata, West Bengal 700026",
+    "latlng": {
+      "lat": 22.5186095,
+      "lng": 88.3502392
+    },
+    "cuisine_type": "Nawabi Mughal",
+    "operating_hours": {
+      "Monday": "5:00 pm - 12:00 am",
+      "Tuesday": "5:00 pm - 12:00 am",
+      "Wednesday": "5:00 pm - 12:00 am",
+      "Thursday": "5:00 pm - 12:00 am",
+      "Friday": "5:00 pm - 12:00 am",
+      "Saturday": "11:00 am - 12:00 am",
+      "Sunday": "11:00 am - 12:00 am"
+    },
+    "reviews": [{
+        "name": "Avantika",
+        "date": "October 26, 2016",
+        "rating": 5,
+        "comments": "Amazing food. Beautiful ambience. The staff are also very courteous and polite. Good place to go for authentic food. Slightly expensive but worth the money."
+      },
+      {
+        "name": "Shrejit",
+        "date": "June 26, 2017",
+        "rating": 5,
+        "comments": "Amazing food, ambience top notch and really friendly and helpful staff. A must try for all the kebab and biryani lovers. The dimmed lights gives an amazing vintage retro feel and seems like one has gone back in time. Hats off."
+      },
+      {
+        "name": "Joyee",
+        "date": "October 16, 2016",
+        "rating": 4,
+        "comments": "Food is good.But with day to day their services just are just  becoming poor and poor.You just dont get the royal treatment that was given previously."
+      }
+    ]
+  }]
+}
+
