@@ -73,8 +73,8 @@ fillCuisinesHTML = (cuisines = self.cuisines) => {
  */
 window.initMap = () => {
   let loc = {
-    lat: 40.722216,
-    lng: -73.987501
+    lat: 22.5608397,
+    lng: 88.3631387
   };
   self.map = new google.maps.Map(document.getElementById('map'), {
     zoom: 12,
