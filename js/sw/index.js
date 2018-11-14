@@ -21,7 +21,7 @@ let urlToCache = [
     'https://fonts.gstatic.com/s/roboto/v15/d-6IYplOFocCacKzxwXSOD8E0i7KZn-EPnyo3HZu7kw.woff'
 ];
 self.addEventListener('install', function (event) {
-    console.log('work fine');
+    console.log('its working!!!');
     event.waitUntil(
         caches.open(staticCacheName).then(function (cache) {
             return cache.addAll(urlToCache);
