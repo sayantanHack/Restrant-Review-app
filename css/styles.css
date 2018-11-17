@@ -88,6 +88,7 @@ nav {
   background-color: #252831;
   text-align: center;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
 }
 
