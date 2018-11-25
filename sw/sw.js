@@ -18,6 +18,7 @@ let urlToCache = [
     './js/main.js',
     './js/restaurant_info.js',
     './js/dbhelper.js',
+    'https://fonts.gstatic.com/s/roboto/v15/d-6IYplOFocCacKzxwXSOD8E0i7KZn-EPnyo3HZu7kw.woff'
 
 ];
 self.addEventListener('install', function (event) {
