@@ -29,7 +29,7 @@ self.addEventListener('install', function (event) {
             return cache.addAll(urlToCache);
 
         }).catch(erroe => {
-            console.log(erroe);
+            console.log(error);
         })
     );
 });
