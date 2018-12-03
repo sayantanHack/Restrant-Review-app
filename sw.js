@@ -21,17 +21,17 @@ let urlToCache = [
     'https://fonts.gstatic.com/s/roboto/v15/d-6IYplOFocCacKzxwXSOD8E0i7KZn-EPnyo3HZu7kw.woff'
 
 ];
-self.addEventListener('install', function (event) {
-
+// Install service workers
+self.addEventListener("install", event => {
     event.waitUntil(
-        caches.open(staticCacheName).then(function (cache) {
-            console.log(cache);
-            return cache.addAll(urlToCache);
-
-        }).then(self.skipWaiting());
-        })
+        caches
+        .open(staticCacheName)
+        .then(cache => cache.addAll(urlsToCache))
+        .then(self.skipWaiting())
     );
 });
+
+// Activate service workers
 
 self.addEventListener('activate', function (event) {
     event.waitUntil(
@@ -48,6 +48,7 @@ self.addEventListener('activate', function (event) {
     );
 });
 
+// Fetch service workers
 self.addEventListener('fetch', function (event) {
     event.respondWith(
         caches.match(event.request).then(function (response) {
