@@ -26,7 +26,7 @@ self.addEventListener("install", event => {
     event.waitUntil(
         caches
         .open(staticCacheName)
-        .then(cache => cache.addAll(urlsToCache))
+        .then(cache => cache.addAll(urlToCache))
         .then(self.skipWaiting())
     );
 });
