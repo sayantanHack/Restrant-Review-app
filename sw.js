@@ -28,8 +28,7 @@ self.addEventListener('install', function (event) {
             console.log(cache);
             return cache.addAll(urlToCache);
 
-        }).catch(error => {
-            console.log(error);
+        }).then(self.skipWaiting());
         })
     );
 });
