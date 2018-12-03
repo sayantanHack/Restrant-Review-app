@@ -33,20 +33,16 @@ self.addEventListener("install", event => {
 
 // Activate service workers
 
-self.addEventListener('activate', function (event) {
+self.addEventListener("activate", event => {
     event.waitUntil(
-        caches.keys().then(function (cacheNames) {
-            return Promise.all(
-                cacheNames.filter(function (cacheName) {
-                    return cacheName.startsWith('restaurant-') &&
-                        cacheName != staticCacheName;
-                }).map(function (cacheName) {
-                    return caches.delete(cacheName);
-                })
-            );
-        })
-    );
-});
+        caches.keys().then(cacheNames => Promise.all(cacheNames.map(cache => {
+            if (cache !== staticCacheName) {
+                console.log("[ServiceWorker] removing cached files from ", cache);
+                return caches.delete(cache);
+            }
+        })))
+    )
+})
 
 // Fetch service workers
 self.addEventListener('fetch', function (event) {
